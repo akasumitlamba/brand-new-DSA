@@ -1,7 +1,5 @@
 # Welcome to "Brand New DSA" Repository!
 
-
-
 Welcome to the "Brand New DSA" repository, a place where we explore, implement, and collaborate on Python Data Structures and Algorithms (DSA) code. Whether you're a beginner or an experienced programmer, you're invited to join our open-source community and contribute to this collection of DSA codes.
 
 ## About the Repository
