@@ -35,3 +35,6 @@ We have a [Code of Conduct](CODE_OF_CONDUCT.md) that we expect all contributors 
 If you have any questions, need assistance, or want to discuss ideas, please open an issue or join our discussions. We're here to help and collaborate!
 
 Thank you for joining us on this coding adventure. Let's work together to make "Brand New DSA" a valuable resource for the programming community!
+
+
+#Not taking Contributions anymore
