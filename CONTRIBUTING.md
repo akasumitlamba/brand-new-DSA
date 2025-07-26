@@ -1,6 +1,5 @@
 # Contributing Guidelines
 
-
 Thank you for your interest in contributing to the [brand-new-DSA](https://github.com/secretagentj5/brand-new-DSA/) repository. Your contributions are greatly appreciated!
 
 ## Getting Started
